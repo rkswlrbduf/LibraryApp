@@ -1,0 +1,3 @@
+include ':ProgressBlock'
+include ':app'
+rootProject.name = "LibraryApp"
